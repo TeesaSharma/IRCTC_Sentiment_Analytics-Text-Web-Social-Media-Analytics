@@ -1,0 +1,71 @@
+date,username,tweet,clean_tweet,vader_score,textblob_polarity,sentiment
+2025-08-06 23:50:09.850436,user1,I hate how IRCTC servers crash during Tatkal.,hate irctc server crash tatkal,-0.7506,-0.8,Negative
+2025-08-08 23:50:09.850436,user3,"Train got delayed, but customer support helped.",train got delayed customer support helped,0.2023,0.0,Positive
+2025-08-09 23:50:09.850436,user4,IRCTC app interface needs improvement.,irctc app interface need improvement,0.4588,0.0,Positive
+2025-08-10 23:50:09.850436,user5,Love the new seat selection option!,love new seat selection option,0.6369,0.3181818181818182,Positive
+2025-08-11 23:50:09.850436,user6,Worst experience booking train tickets online.,worst experience booking train ticket online,-0.6249,-1.0,Negative
+2025-08-12 23:50:09.850436,user7,IRCTC deserves appreciation for punctuality.,irctc deserves appreciation punctuality,0.5106,0.0,Positive
+2025-08-13 23:50:09.850436,user8,Got refund quickly! IRCTC doing great.,got refund quickly irctc great,0.6249,0.5666666666666667,Positive
+2025-08-16 23:50:09.850436,user11,I hate how IRCTC servers crash during Tatkal.,hate irctc server crash tatkal,-0.7506,-0.8,Negative
+2025-08-18 23:50:09.850436,user13,"Train got delayed, but customer support helped.",train got delayed customer support helped,0.2023,0.0,Positive
+2025-08-19 23:50:09.850436,user14,IRCTC app interface needs improvement.,irctc app interface need improvement,0.4588,0.0,Positive
+2025-08-20 23:50:09.850436,user15,Love the new seat selection option!,love new seat selection option,0.6369,0.3181818181818182,Positive
+2025-08-21 23:50:09.850436,user16,Worst experience booking train tickets online.,worst experience booking train ticket online,-0.6249,-1.0,Negative
+2025-08-22 23:50:09.850436,user17,IRCTC deserves appreciation for punctuality.,irctc deserves appreciation punctuality,0.5106,0.0,Positive
+2025-08-23 23:50:09.850436,user18,Got refund quickly! IRCTC doing great.,got refund quickly irctc great,0.6249,0.5666666666666667,Positive
+2025-08-26 23:50:09.850436,user21,I hate how IRCTC servers crash during Tatkal.,hate irctc server crash tatkal,-0.7506,-0.8,Negative
+2025-08-28 23:50:09.850436,user23,"Train got delayed, but customer support helped.",train got delayed customer support helped,0.2023,0.0,Positive
+2025-08-29 23:50:09.850436,user24,IRCTC app interface needs improvement.,irctc app interface need improvement,0.4588,0.0,Positive
+2025-08-30 23:50:09.850436,user25,Love the new seat selection option!,love new seat selection option,0.6369,0.3181818181818182,Positive
+2025-08-31 23:50:09.850436,user26,Worst experience booking train tickets online.,worst experience booking train ticket online,-0.6249,-1.0,Negative
+2025-09-01 23:50:09.850436,user27,IRCTC deserves appreciation for punctuality.,irctc deserves appreciation punctuality,0.5106,0.0,Positive
+2025-09-02 23:50:09.850436,user28,Got refund quickly! IRCTC doing great.,got refund quickly irctc great,0.6249,0.5666666666666667,Positive
+2025-09-05 23:50:09.850436,user31,I hate how IRCTC servers crash during Tatkal.,hate irctc server crash tatkal,-0.7506,-0.8,Negative
+2025-09-07 23:50:09.850436,user33,"Train got delayed, but customer support helped.",train got delayed customer support helped,0.2023,0.0,Positive
+2025-09-08 23:50:09.850436,user34,IRCTC app interface needs improvement.,irctc app interface need improvement,0.4588,0.0,Positive
+2025-09-09 23:50:09.850436,user35,Love the new seat selection option!,love new seat selection option,0.6369,0.3181818181818182,Positive
+2025-09-10 23:50:09.850436,user36,Worst experience booking train tickets online.,worst experience booking train ticket online,-0.6249,-1.0,Negative
+2025-09-11 23:50:09.850436,user37,IRCTC deserves appreciation for punctuality.,irctc deserves appreciation punctuality,0.5106,0.0,Positive
+2025-09-12 23:50:09.850436,user38,Got refund quickly! IRCTC doing great.,got refund quickly irctc great,0.6249,0.5666666666666667,Positive
+2025-09-15 23:50:09.850436,user41,I hate how IRCTC servers crash during Tatkal.,hate irctc server crash tatkal,-0.7506,-0.8,Negative
+2025-09-17 23:50:09.850436,user43,"Train got delayed, but customer support helped.",train got delayed customer support helped,0.2023,0.0,Positive
+2025-09-18 23:50:09.850436,user44,IRCTC app interface needs improvement.,irctc app interface need improvement,0.4588,0.0,Positive
+2025-09-19 23:50:09.850436,user45,Love the new seat selection option!,love new seat selection option,0.6369,0.3181818181818182,Positive
+2025-09-20 23:50:09.850436,user46,Worst experience booking train tickets online.,worst experience booking train ticket online,-0.6249,-1.0,Negative
+2025-09-21 23:50:09.850436,user47,IRCTC deserves appreciation for punctuality.,irctc deserves appreciation punctuality,0.5106,0.0,Positive
+2025-09-22 23:50:09.850436,user48,Got refund quickly! IRCTC doing great.,got refund quickly irctc great,0.6249,0.5666666666666667,Positive
+2025-09-25 23:50:09.850436,user51,I hate how IRCTC servers crash during Tatkal.,hate irctc server crash tatkal,-0.7506,-0.8,Negative
+2025-09-27 23:50:09.850436,user53,"Train got delayed, but customer support helped.",train got delayed customer support helped,0.2023,0.0,Positive
+2025-09-28 23:50:09.850436,user54,IRCTC app interface needs improvement.,irctc app interface need improvement,0.4588,0.0,Positive
+2025-09-29 23:50:09.850436,user55,Love the new seat selection option!,love new seat selection option,0.6369,0.3181818181818182,Positive
+2025-09-30 23:50:09.850436,user56,Worst experience booking train tickets online.,worst experience booking train ticket online,-0.6249,-1.0,Negative
+2025-10-01 23:50:09.850436,user57,IRCTC deserves appreciation for punctuality.,irctc deserves appreciation punctuality,0.5106,0.0,Positive
+2025-10-02 23:50:09.850436,user58,Got refund quickly! IRCTC doing great.,got refund quickly irctc great,0.6249,0.5666666666666667,Positive
+2025-10-05 23:50:09.850436,user61,I hate how IRCTC servers crash during Tatkal.,hate irctc server crash tatkal,-0.7506,-0.8,Negative
+2025-10-07 23:50:09.850436,user63,"Train got delayed, but customer support helped.",train got delayed customer support helped,0.2023,0.0,Positive
+2025-10-08 23:50:09.850436,user64,IRCTC app interface needs improvement.,irctc app interface need improvement,0.4588,0.0,Positive
+2025-10-09 23:50:09.850436,user65,Love the new seat selection option!,love new seat selection option,0.6369,0.3181818181818182,Positive
+2025-10-10 23:50:09.850436,user66,Worst experience booking train tickets online.,worst experience booking train ticket online,-0.6249,-1.0,Negative
+2025-10-11 23:50:09.850436,user67,IRCTC deserves appreciation for punctuality.,irctc deserves appreciation punctuality,0.5106,0.0,Positive
+2025-10-12 23:50:09.850436,user68,Got refund quickly! IRCTC doing great.,got refund quickly irctc great,0.6249,0.5666666666666667,Positive
+2025-10-15 23:50:09.850436,user71,I hate how IRCTC servers crash during Tatkal.,hate irctc server crash tatkal,-0.7506,-0.8,Negative
+2025-10-17 23:50:09.850436,user73,"Train got delayed, but customer support helped.",train got delayed customer support helped,0.2023,0.0,Positive
+2025-10-18 23:50:09.850436,user74,IRCTC app interface needs improvement.,irctc app interface need improvement,0.4588,0.0,Positive
+2025-10-19 23:50:09.850436,user75,Love the new seat selection option!,love new seat selection option,0.6369,0.3181818181818182,Positive
+2025-10-20 23:50:09.850436,user76,Worst experience booking train tickets online.,worst experience booking train ticket online,-0.6249,-1.0,Negative
+2025-10-21 23:50:09.850436,user77,IRCTC deserves appreciation for punctuality.,irctc deserves appreciation punctuality,0.5106,0.0,Positive
+2025-10-22 23:50:09.850436,user78,Got refund quickly! IRCTC doing great.,got refund quickly irctc great,0.6249,0.5666666666666667,Positive
+2025-10-25 23:50:09.850436,user81,I hate how IRCTC servers crash during Tatkal.,hate irctc server crash tatkal,-0.7506,-0.8,Negative
+2025-10-27 23:50:09.850436,user83,"Train got delayed, but customer support helped.",train got delayed customer support helped,0.2023,0.0,Positive
+2025-10-28 23:50:09.850436,user84,IRCTC app interface needs improvement.,irctc app interface need improvement,0.4588,0.0,Positive
+2025-10-29 23:50:09.850436,user85,Love the new seat selection option!,love new seat selection option,0.6369,0.3181818181818182,Positive
+2025-10-30 23:50:09.850436,user86,Worst experience booking train tickets online.,worst experience booking train ticket online,-0.6249,-1.0,Negative
+2025-10-31 23:50:09.850436,user87,IRCTC deserves appreciation for punctuality.,irctc deserves appreciation punctuality,0.5106,0.0,Positive
+2025-11-01 23:50:09.850436,user88,Got refund quickly! IRCTC doing great.,got refund quickly irctc great,0.6249,0.5666666666666667,Positive
+2025-11-04 23:50:09.850436,user91,I hate how IRCTC servers crash during Tatkal.,hate irctc server crash tatkal,-0.7506,-0.8,Negative
+2025-11-06 23:50:09.850436,user93,"Train got delayed, but customer support helped.",train got delayed customer support helped,0.2023,0.0,Positive
+2025-11-07 23:50:09.850436,user94,IRCTC app interface needs improvement.,irctc app interface need improvement,0.4588,0.0,Positive
+2025-11-08 23:50:09.850436,user95,Love the new seat selection option!,love new seat selection option,0.6369,0.3181818181818182,Positive
+2025-11-09 23:50:09.850436,user96,Worst experience booking train tickets online.,worst experience booking train ticket online,-0.6249,-1.0,Negative
+2025-11-10 23:50:09.850436,user97,IRCTC deserves appreciation for punctuality.,irctc deserves appreciation punctuality,0.5106,0.0,Positive
+2025-11-11 23:50:09.850436,user98,Got refund quickly! IRCTC doing great.,got refund quickly irctc great,0.6249,0.5666666666666667,Positive
